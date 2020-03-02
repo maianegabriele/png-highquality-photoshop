@@ -13,4 +13,4 @@ How to use this script:
 3. At Photoshop go to File > Scripts > Browse and find your script. 
 4. Once you select it will already run. 
 
-Note that you cna create an action with it and set a personalized shortcut, this way it become really easy to save your on going projects.
+Note that you can create an action with it and set a personalized shortcut, this way it become really easy to save your on going projects.
